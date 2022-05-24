@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        Counter.ImprimeNumeros();
+        System.out.println("Hola Mundo");
     }
 }
